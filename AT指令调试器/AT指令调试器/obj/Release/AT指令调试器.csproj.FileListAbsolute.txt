@@ -1,0 +1,18 @@
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\bin\Release\AT指令调试器.exe
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\bin\Release\AT指令调试器.pdb
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\ResolveAssemblyReference.cache
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\时讯网.Form1.resources
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\时讯网.Properties.Resources.resources
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.csproj.GenerateResource.Cache
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.exe
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.pdb
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Release\时讯网.About.resources
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.exe
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.pdb
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\bin\Release\AT指令调试器.exe
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\bin\Release\AT指令调试器.pdb
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.csprojResolveAssemblyReference.cache
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\时讯网.About.resources
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\时讯网.Form1.resources
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\时讯网.Properties.Resources.resources
+G:\Users\bb\Desktop\AT指令调试器\AT指令调试器\obj\Release\AT指令调试器.csproj.GenerateResource.Cache

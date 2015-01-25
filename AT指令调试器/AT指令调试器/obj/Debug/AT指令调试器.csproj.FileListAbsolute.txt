@@ -1,0 +1,9 @@
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\AT指令调试器.csproj.GenerateResource.Cache
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\bin\Debug\AT指令调试器.exe
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\bin\Debug\AT指令调试器.pdb
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\AT指令调试器.exe
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\AT指令调试器.pdb
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\时讯网.Form1.resources
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\时讯网.Properties.Resources.resources
+E:\WORK\visual studio 2008\Projects\AT指令调试器\AT指令调试器\obj\Debug\时讯网.About.resources
